@@ -64,7 +64,7 @@ static struct asmp_param_struct {
 } asmp_param = {
 	.delay = 100,
 	.scroff_single_core = true,
-	.max_cpus = 8,
+	.max_cpus = 4,
 	.min_cpus = 1,
 	.cpufreq_up = 60,
 	.cpufreq_down = 40,
